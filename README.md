@@ -2,8 +2,8 @@
 
 
 
-For Assignment4.1, following .java files and screenshots are associated
-In the assignment 8 problems are asked to complete.
+For Assignment4.1, following .java files and screenshots are associated.
+In the assignment, 8 problems are asked to complete.
 
 1. .java Files  ------->>>>>>>
 
